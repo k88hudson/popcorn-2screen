@@ -1,0 +1,37 @@
+body {
+  background: #EEE;
+  line-height: 1.4;
+  font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+}
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+#TEMPLATE {
+  display: none;
+}
+.feed {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border-left: 1px dashed #AAA;
+}
+.feed li {
+  background: #FFF;
+  padding: 30px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1px solid #CCC;
+}
+.feed li.hidden {
+  opacity: 0.5;
+}
+.feed li h3 {
+  margin: 0;
+}
+.feed li .timestamp {
+  margin: 0;
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+}
