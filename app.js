@@ -14,7 +14,6 @@ app.get('/*', function (req, res) {
   } else {
     res.sendfile(__dirname + '/public/' + file );
   }
-  
 });
  
 io.sockets.on('connection', function ( socket ) {
@@ -24,5 +23,8 @@ io.sockets.on('connection', function ( socket ) {
       key: data ? data.key : false,
       data: data ? data.data : {}
     });
+  });
+  socket.on('remote', function ( data ) {
+    io.sockets.emit( 'remote', data );
   });
 });

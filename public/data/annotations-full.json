@@ -1,0 +1,2595 @@
+[
+    {
+        "index": 0, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "This sitting together thing really does change the optics - for now, at least. Let's see what happens when he gets to immigration and tax cuts."
+    }, 
+    {
+        "index": 0, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/pSsDY72SOro\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 1, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/sCYa4_Jom5I\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 1, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/prz4LDCTHAg\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 2, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "On the [NewsHour tonight](http://www.pbs.org/newshour/bb/politics/jan-june11/gibbs_01-25.html), Robert Gibbs telegraphed some punches when he said that, essentially, sitting together is one test; working together is another."
+    }, 
+    {
+        "index": 2, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/coHInWqhX2Q\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 3, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "White House officials said today that the reason the President will make no mention of gun control tonight, in the aftermath of the deadly Tucson shootings, despite his belief in the concept, is that he wanted to keep a principal focus on the economy, on \"winning the future.\" Aides say the speech was designed to speak about where the country is going, and the health of the economy in the long term.  \r\n\r\nTo bring up the controversial issue of gun control, they said, would risk diluting that focus.  There are also references to international policy, but the central theme has to do with preparing for the rest of the 21st century that \"keeps opportunity alive and vibrant."
+    }, 
+    {
+        "index": 3, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/qGjpo2YWpSs\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 7, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/yNkE863-3VA\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 7, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/0tOlfcTK90o\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 8, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "David Chalian is the political editor for the PBS NewsHour.", 
+            "first_name": "David", 
+            "last_name": "Chalian", 
+            "title": "PBS NewsHour", 
+            "id": 41, 
+            "full_name": "David Chalian", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fchalian_thumbnail.jpg"
+        }, 
+        "text": "President Obama’s State of the Union address is far closer to a re-election campaign launch than it is to a listing of policy prescriptions or a tough love conversation with the American people about the inevitable and real hard choices that are before us.\r\n\r\nIn the days leading up to the speech, President Obama’s advisers said he would be delivering a thematic speech, not a programmatic one and it is certainly that.\r\n\r\nThere is a touch of Oprah in the speech.  President Obama is challenging Americans to build an America that is the best version of itself.\r\n\r\nAfter two years of bruising partisan battle, culminating in a devastating midterm election for the president and his party, Mr. Obama is clearly attempting to regain the piece of his 2008 brand that was all about transcending partisan politics. It was an appeal that independent voters responded to during his race for the White House and those very same voters have been coming back to his fold in recent polls. This speech is aimed squarely at trying to keep them there.\r\n\r\nIn his prepared remarks, President Obama was expected to refer to both “Democrats and Republicans” and urge them to work “together” no fewer than a total of 13 times. (That’s nearly double to the joint “Democrats and Republicans” appeal and the push to do things “together” compared to last year, but who’s counting?)\r\n\r\nNowhere in this speech is there talk of abortion, climate change, or gun control.  Those partisan trip wires have been replaced by innovation, education, infrastructure, all of which are potential areas of real bipartisanship.\r\n\r\n"
+    }, 
+    {
+        "index": 9, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Beverly Gage is a professor of American history at Yale University.", 
+            "first_name": "Beverly", 
+            "last_name": "Gage", 
+            "title": "Historian", 
+            "id": 44, 
+            "full_name": "Beverly Gage", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fbeverly-gage_thumbnail.jpg"
+        }, 
+        "text": "Obama was supposed to be the “new FDR.” (Remember that Time magazine cover in 2008, complete with Obama holding a long Rooseveltian cigarette?) And certain aspects of his speech echo FDR’s New Deal agenda, such as the call for public works and infrastructure development. But FDR grew more radical on economic issues during his first term, culminating in the passage of Social Security and the Wagner labor relations act in 1935. With this speech, Obama is deliberately moving in the opposite direction. Cases in point: his call to lower the corporate tax rate and to freeze federal spending (though, one should note, FDR did gesture toward balancing the budget). Still, the two men do share at least one overarching characteristic: groping toward the middle. In Roosevelt’s case, that meant finding a path that would save the U.S. from fascism on one side and communism on the other. By comparison, Obama’s job should be simple. But FDR had one advantage that Obama may never see again: a unified and supportive Democratic Congress."
+    }, 
+    {
+        "index": 9, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/i4jWrbSeE0o\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 10, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "The veterans’ community badly needs small business support. For veterans starting them—and working in them. This past year, the jobless rate for Iraq and Afghanistan-era veterans hit a staggering 11.5 percent—up from 6.1 percent in 2007.  Over 210,000 combat veterans are struggling to find gainful employment after their service. "
+    }, 
+    {
+        "index": 10, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/Ko_fgW-mVK0\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 10, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "If we’re serious about repairing the economy, and we must be, the military budget cannot be immune from cuts.  It’s by far the largest part of our economy.  We spend 43 percent of the military spending of the entire world – the next highest, China, is responsible for just over 6 percent of global arms spending."
+    }, 
+    {
+        "index": 12, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "Well, yes, but assuming you are going to spend a good deal of your time later in your speech pointing out that deficits are unsustainable, it is a bit ironic to just gloss over the fact that these tax cuts added to the deficit tremendously."
+    }, 
+    {
+        "index": 12, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/I4ptoFYUVyk\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 14, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[Michael Gerson](http://www.washingtonpost.com/wp-srv/opinions/biographies/michael-gerson.html) is a columnist for the Washington Post and former aide to President George W. Bush.", 
+            "first_name": "Michael", 
+            "last_name": "Gerson", 
+            "title": "", 
+            "id": 58, 
+            "full_name": "Michael Gerson", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fgerson__thumbnail.jpg"
+        }, 
+        "text": "I thought it was a sober economic speech. Effective in a certain way. Covered a lot of topics. Everything from high speed rail to better cell phone coverage, in the great tradition of the State of the Union address. It reminded me very much of a Clinton speech from the 1990s. And those were very effective speeches. There was one thing that was lacking though. Unlike Clinton there was no moment where he said the era of big government is over. It was pretty unapologetic in his activism. And that sets up oddly, in a very bipartisan speech, a large contrast with the Republicans. Ideological contrast. They think we’re in a fiscal crisis that requires a revisiting of the role of government itself. And that’s really not what Obama talked about in this speech."
+    }, 
+    {
+        "index": 14, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/4SnPYMct11s\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 15, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/JmC16-sWX4Q\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 15, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/E3VldSXs2FQ\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 16, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[Michael Gerson](http://www.washingtonpost.com/wp-srv/opinions/biographies/michael-gerson.html) is a columnist for the Washington Post and former aide to President George W. Bush.", 
+            "first_name": "Michael", 
+            "last_name": "Gerson", 
+            "title": "", 
+            "id": 58, 
+            "full_name": "Michael Gerson", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fgerson__thumbnail.jpg"
+        }, 
+        "text": "I think there was a switch. From a stimulus-oriented, public job creation, which would’ve been a year ago, to a very business-oriented speech. I’m not sure that’s Reagan. I think it’s more like Clinton. There was a lot of activism there. Research and development. We’re going to develop new clean energy. We’re going to do all these things. It’s essentially government’s catalytic role in the private sector, which is different from the message the president had adopted before.\r\n\r\nI was a little bit disappointed that there wasn’t more on the deficit. I don’t think there was any policy breakthrough here. He talked about a five year freeze, but he talked in last year’s State of the Union about a three-year freeze. He talked about tax increases that he’s been talking about since the primaries. There were really no specifics on Social Security or Medicare. Maybe that will come in the budget, maybe there’ll be more when it comes. But it was not a real emphasis of the speech.\r\n"
+    }, 
+    {
+        "index": 17, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "Most Americans don't understand that China puts a tremendous amount of government money into research, including promoting new research universities. Nor do they know that it was the defense department research arm that first produced the Internet."
+    }, 
+    {
+        "index": 17, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/YtVBml7x3Gw\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 17, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/6IkpMxtXOB8\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 17, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/WpS2JJYfbZ8\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 18, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Shields is a syndicated columnist and a regular commentator for the PBS NewsHour.", 
+            "first_name": "Mark", 
+            "last_name": "Shields", 
+            "title": "syndicated columnist", 
+            "id": 34, 
+            "full_name": "Mark Shields", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fshields_homepage_lede__thumbnail.jpg"
+        }, 
+        "text": "I thought the speech had two central themes to it one of which was not surprising, that of education, and the Democratic president and particularly this Democratic president. But the second was surprising, and that was America is open for business. That’s who we are.  \r\n"
+    }, 
+    {
+        "index": 19, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "Since last year’s election, the  president has been more and more willing to embrace the notion that we are an exceptional nation, for these reasons and so many more.  The leap that he has been less willing to make is that because we are an exceptional nation, we have exceptional responsibilities – to our own people, but also to others who yearn to enjoy the same pursuit of freedom that we have enjoyed since our Revolution."
+    }, 
+    {
+        "index": 21, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "This is a powerful concept. Americans love competition. Racing against China and others is a motivating way to set the stage and rally the nation."
+    }, 
+    {
+        "index": 21, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Thoma is a macroeconomist and time-series econometrician at the University of Oregon. Follow Thoma on Twitter [@MarkThoma](http://twitter.com/#!/markthoma)\r\n\r\n", 
+            "first_name": "Mark ", 
+            "last_name": "Thoma ", 
+            "title": "", 
+            "id": 47, 
+            "full_name": "Mark  Thoma", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FThoma_Mark_06_013_5x_thumbnail.jpg"
+        }, 
+        "text": "Most of the programs the President mentioned to create jobs and improve the prospects for workers in the future will take quite some time to have an effect. Educational improvements. for example, will not happen immediately. We've been trying to do this for decades already with little to show for it, so we shouldn't expect things to improve overnight. And if reform does eventually happen, it will be many years after that before better educated students begin to enter the workforce. \r\n\r\nAnother initiative from the President, investment in infrastructure, is a little better in terms of how long it takes to create jobs. There will be additional jobs as the infrastructure is under construction, and more jobs in the long run when it enhances our productivity. But we must first get these programs through Congress and that will take time - if it can be done at all given the opposition from the GOP. And if and when a program does eventually get through Congress, it will take even more time before the first shovel hits the dirt. I like the ideas I heard from the president, but what about our more immediate job problem? How do we help those who need a job right now? Solving the more immediate job problem needs to be first and foremost on our national agenda, but this was not addressed in the speech."
+    }, 
+    {
+        "index": 21, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "The two lines that the White House may want, more than any others, for Americans to take away from tonight's State of the Union: \"That's how we'll win the future.\"  And: \"This is our generation's Sputnik moment.\"\r\n"
+    }, 
+    {
+        "index": 21, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/i02dxw2mllM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 22, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/YvSGWoqjx6E\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 23, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Vadim Lavrusik is the community manager & social strategist at [Mashable.com](http://mashable.com/). He's also an adjunct professor at the Columbia University Graduate School of Journalism, teaching [\"Social Media Skills for Journalists.\"](https://docs.google.com/Doc?docid=0AS3JgJytKEC9YWM0OHQzZm5rc3dnXzEycTNxZHRjMg&hl=en&pli=1) Follow Lavrusik on Twitter [@Lavrusik](http://twitter.com/#!/lavrusik)", 
+            "first_name": "Vadim", 
+            "last_name": "Lavrusik", 
+            "title": "", 
+            "id": 53, 
+            "full_name": "Vadim Lavrusik", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Flavrusik__vadimedit_thumbnail.jpg"
+        }, 
+        "text": "In addressing American innovation, President Obama called America a nation of Google and Facebook. The mention is significant not only because Obama has been known for leveraging social media, but also the timing of the mention. Google announced its many job openings today and the [Associated Press reported](http://www.google.com/hostednews/ap/article/ALeqM5jz7PCN4iGxVQ673X0smo2yrkzRbQ?docId=2ab4da2ff3ed4252a8db3d98359fb1f6) that the company could hire more than 6,000 people this year. And it's no coincidence that President Obama mentioned the word jobs 25 times in his address."
+    }, 
+    {
+        "index": 24, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/mFQTNrtmhNo\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 26, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Richard Norton Smith is a presidential historian and former head of six presidential libraries.", 
+            "first_name": "Richard Norton", 
+            "last_name": "Smith", 
+            "title": "George Mason University", 
+            "id": 42, 
+            "full_name": "Richard Norton Smith", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FRichardNSmith_thumbnail.jpg"
+        }, 
+        "text": "I was disappointed. To get up there and say it's a Sputnik moment, that it's an economic cold war instead? No, this was a speech about changing the subject. I’m not saying it wasn’t a good speech, it was a great speech with a lot of good ideas. If we were a rational universe with cerebral people like Obama in all the political offices, we could do all these things. But you know what, that's not the case. The thing I thought was politically smart was, if you noticed, he didn't ignore entitlement programs, but he mentioned them just enough to goad the Republicans into getting more specific. He's not drawing lines in the sand or saying don’t touch Social Security. It's a tougher -- and I would say shrewder -- approach, by saying we have to deal with these things and then baiting Republicans, the Paul Ryan Republicans, to specifically address them. It's a game of chess, with both sides circling one another. And then you’ve got Michele Bachmann over there making Paul Ryan look moderate."
+    }, 
+    {
+        "index": 26, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "Calling on America to outsmart its competitors in the 21st century, the president reminded us of Sputnik, the first earth-orbiting satellite, launched by the Soviet Union in 1957. That achievement prodded President John F. Kennedy to push the U.S. to its successful race to the moon. I estimate well under one quarter of Americans remember that moment, but surely most of us have at least studied it in school. It was one more way the president tried to paint a picture of a United States that can rise to the occasion and can overcome a seeming disadvantage when it has to. At a moment when millions can't find a job, when China seems headed to become the world's economic power, Mr. Obama clearly saw one challenge was to inspire his countrymen and women to believe things will get better, that their nation can prevail."
+    }, 
+    {
+        "index": 26, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Beverly Gage is a professor of American history at Yale University.", 
+            "first_name": "Beverly", 
+            "last_name": "Gage", 
+            "title": "Historian", 
+            "id": 44, 
+            "full_name": "Beverly Gage", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fbeverly-gage_thumbnail.jpg"
+        }, 
+        "text": "So it turns out that Obama isn’t FDR. He’s Dwight Eisenhower, worried about Sputnik. Obama’s call for investment in science and higher education is vital, given the desperate state of Sputnik-era educational jewels like the University of California system. But it’s worth remembering, when we make these historical analogies, what much of that earlier round of Cold War investment was really about: military supremacy over the Soviet Union. It remains to be seen if Obama can muster the political capital for that scale of investment absent a pressing Cold-War-style military threat. "
+    }, 
+    {
+        "index": 26, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Vadim Lavrusik is the community manager & social strategist at [Mashable.com](http://mashable.com/). He's also an adjunct professor at the Columbia University Graduate School of Journalism, teaching [\"Social Media Skills for Journalists.\"](https://docs.google.com/Doc?docid=0AS3JgJytKEC9YWM0OHQzZm5rc3dnXzEycTNxZHRjMg&hl=en&pli=1) Follow Lavrusik on Twitter [@Lavrusik](http://twitter.com/#!/lavrusik)", 
+            "first_name": "Vadim", 
+            "last_name": "Lavrusik", 
+            "title": "", 
+            "id": 53, 
+            "full_name": "Vadim Lavrusik", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Flavrusik__vadimedit_thumbnail.jpg"
+        }, 
+        "text": "The buzz on social media gravitated toward the subject of economy and technology, which isn't a surprise. In a poll prior to the address on the [U.S. Politics Facebook page](http://www.facebook.com/uspolitics), when asked \"What is the most important theme for President Barack Obama to address during his State of the Union speech on Tuesday?\" some 78 percent of the respondents said the “economy.”"
+    }, 
+    {
+        "index": 27, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "Is this our Sputnik moment? When Sputnik went up, the Soviet Union was the enemy which made it easier to mobilize Americans to study more math and science. But China is an economic competitor, not (yet) an enemy, so will we recognize the need to emulate the Chinese education ethic? Will Americans understand that jobs depend on putting as high a value on education as they do on sports?"
+    }, 
+    {
+        "index": 27, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Vadim Lavrusik is the community manager & social strategist at [Mashable.com](http://mashable.com/). He's also an adjunct professor at the Columbia University Graduate School of Journalism, teaching [\"Social Media Skills for Journalists.\"](https://docs.google.com/Doc?docid=0AS3JgJytKEC9YWM0OHQzZm5rc3dnXzEycTNxZHRjMg&hl=en&pli=1) Follow Lavrusik on Twitter [@Lavrusik](http://twitter.com/#!/lavrusik)", 
+            "first_name": "Vadim", 
+            "last_name": "Lavrusik", 
+            "title": "", 
+            "id": 53, 
+            "full_name": "Vadim Lavrusik", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Flavrusik__vadimedit_thumbnail.jpg"
+        }, 
+        "text": "President Obama’s reference to the Soviets beating America to space with the Sputnik became a [trending topic](http://search.twitter.com/search?q=Sputnik) on Twitter. “This is our generation’s Sputnik moment” was referenced in thousands of tweets. "
+    }, 
+    {
+        "index": 27, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "The \"Sputnik moment\" line, which was much touted in advance, passed with nary a clap.\r\nPlus, he's said it before. Attributed to Energy Secretary Steven Chu."
+    }, 
+    {
+        "index": 27, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "David Chalian is the political editor for the PBS NewsHour.", 
+            "first_name": "David", 
+            "last_name": "Chalian", 
+            "title": "PBS NewsHour", 
+            "id": 41, 
+            "full_name": "David Chalian", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fchalian_thumbnail.jpg"
+        }, 
+        "text": "Obama’s plea for America’s next Sputnik moment. Looks like someone has been reading a lot of Thomas Friedman: http://nyti.ms/Rf9Xx and http://nyti.ms/8T91il"
+    }, 
+    {
+        "index": 28, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "NewsHour business and economics correspondent", 
+            "first_name": "Paul", 
+            "last_name": "Solman", 
+            "title": "", 
+            "id": 59, 
+            "full_name": "Paul Solman", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fsolman_thumbnail.jpg"
+        }, 
+        "text": "Economics Correspondent Paul Solman has posted at some length on the SOTU speechifying. Here's an excerpt concerning President Obama's remarks:\r\n\r\nAs for the content of the mostly uninterrupted one hour and nine minutes of actual talk, the President focused on a problem that has been growing for decades: how the world has changed. China, he said, now boasts the world's fastest computer, the world's largest solar research center. By contrast, the U.S. is ninth in college graduation rates.\r\n\r\nYet all is not lost.\r\n\r\n\"Our free enterprise system is what drives innovation. But...\" - and this is the crucial \"but\" of a Democratic President - \"because it's not always profitable for companies to invest in basic research, throughout history our GOVERNMENT [emphasis added] has provided cutting-edge scientists and inventors with the support that they need. That's what planted the seeds for the Internet. That's what helped make possible things like computer chips and GPS.\"\r\n\r\nI.e.: much-maligned government has a role to play in the economy, my fellow Americans, and let's not forget it. The most memorable line from this part of the President's argument: \"This is our generation's Sputnik moment.\" Given that Russia's Sputnik was launched more than half a century ago, and that the economic payoff from the space race is still hard to demonstrate, it was a line perhaps better left unuttered. "
+    }, 
+    {
+        "index": 30, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/ejHIds82VBE\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 31, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/uKEtdr2Tew8\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 32, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "Nice to start off with the reminder that we have to stop spending (oftentimes through the tax code) in order to better redirect resources and close the fiscal gap. "
+    }, 
+    {
+        "index": 32, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "The dig about the oil companies \"doing just fine on their own\" landed with a thud."
+    }, 
+    {
+        "index": 32, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/iSRC6So7sc0\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 33, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/iSRC6So7sc0\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 34, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/kRVV_DT181U\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 34, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "The president placed education high on the list of priorities, at No. 2. Five of his 23 guests were students, a sixth a community college teacher (Jill Biden)."
+    }, 
+    {
+        "index": 35, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/i02dxw2mllM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 35, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "The president talked in competitive terms, no surprise given his basketball obsession and his secretary of education's prowess as an athlete. But one has to wonder how America is going to \"win the race to educate our kids\" or \"out-educate\" other countries without some serious examination of current policies."
+    }, 
+    {
+        "index": 36, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "I like this a lot. I know many folks in the military community are annoyed when they see Michael Vick celebrated instead of folks like Medal of Honor Recipient SSG Sal Giunta."
+    }, 
+    {
+        "index": 36, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "Hard to say you're against innovation and competition and kids winning science fairs. But turning the TV off? Come on, now."
+    }, 
+    {
+        "index": 36, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/i02dxw2mllM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 37, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/Nsr6f8W408g\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 37, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "[Race for Education Funding Poses a Test for States](http://www.pbs.org/newshour/bb/education/jan-june10/racetothetop_01-19.html)"
+    }, 
+    {
+        "index": 38, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/caaujDVVuwo\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 38, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "While the president mentioned No Child Left Behind, nothing he said suggested to me that he's ready to put the power of his office behind rewriting that flawed law (which expired a long time ago but remains law until the Congress rewrites it)."
+    }, 
+    {
+        "index": 39, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "Standing ovations for at least two of his references to teachers. These are safe and noncontroversial. Let's hope this means something. His passion seems genuine, reassuring and familiar."
+    }, 
+    {
+        "index": 39, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/RsUqLu16PdE\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 40, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/EOe5S0IZ3pM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 42, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "This is a powerful call to service. It is really good to see the President continuing to encourage many forms of national service.\r\n\r\nPOTUS should issue a call for mental health providers like he did for teachers. It would help us lower the skyrocketing military suicide rate.\r\n"
+    }, 
+    {
+        "index": 42, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "I found the president's call to \"become a teacher\" inspiring and hope it curtails some of the nasty teacher bashing going on now. "
+    }, 
+    {
+        "index": 44, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "At the end of the day, this speech is about the economy, not education, and that's as it should be."
+    }, 
+    {
+        "index": 44, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/kRVV_DT181U\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 44, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "The fans of community colleges have to be happy with all the attention. Happy, too, that the president did not bring up the fact that these institutions have a 25 percent graduation rate after SIX years!"
+    }, 
+    {
+        "index": 45, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[John Merrow](http://www.pbs.org/newshour/aboutus/bio_merrow.html) is a special correspondent for the PBS NewsHour covering education. He is president of [Learning Matters](http://learningmatters.tv/).", 
+            "first_name": "John", 
+            "last_name": "Merrow", 
+            "title": "", 
+            "id": 54, 
+            "full_name": "John Merrow", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fjohn_merrow_thumbnail.jpg"
+        }, 
+        "text": "The pledge to be No. 1 in the world in college completion by the end of the decade is a tall order. He said we are now No. 9, although I have seen lower rankings. No specifics, but that's to be expected, I guess."
+    }, 
+    {
+        "index": 46, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "Another thing Americans don't realize is how much our scientific establishment depends on foreign students who make up a large part of the body of graduate students in math and science who do doctorates at U.S. universities. We need to convince them to stay, not drive them away."
+    }, 
+    {
+        "index": 46, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/buBHF1ZuKsA\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 46, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/X2z7x0WyiQM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 47, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "McCain is sitting next to Kerry. Applauds immigration line. (Boehner does too.) But what do two defeated party nominees think at a moment like this?"
+    }, 
+    {
+        "index": 49, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "It is shocking to visit distant provinces of China and see new roads and brand new, well-functioning airports, with multi-lingual signage, and to see internet towers in the most remote parts of the country. China is investing a fortune in fast trains, and linking its immense and dispersed population together. Meantime, our bridges crumble, many of our airports are embarrassingly disfunctional, our fast rail is a joke. This country can not compete with infrastructure that is so lagging, with few Americans recognizing that this undercuts our competitiveness and our ability to attract investment and jobs to the United States."
+    }, 
+    {
+        "index": 49, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "A particularly invidious comparison.  Where did these nations begin?  For many, advance is impossible without basic investment in roads.  To pinch the president’s own nostalgic line, this is a missile gap argument – political manipulation of perceived foreign success to make arguments for your own domestic spending."
+    }, 
+    {
+        "index": 52, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/jRiv9qefurc\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 52, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/43VuE1tSLeE\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 53, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[Kevin A. Hassett](http://www.aei.org/scholar/26) is the director of economic policy studies and a senior fellow at American Enterprise Institute.", 
+            "first_name": "Kevin ", 
+            "last_name": "Hassett ", 
+            "title": "Director of Economic Policy Studies, AEI", 
+            "id": 45, 
+            "full_name": "Kevin  Hassett", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FHassett_pic_-_high_res_thumbnail.jpg"
+        }, 
+        "text": "If I were a member of Congress, I would offer an amendment to the high-speed rail bill that spent the same amount of money on pixie dust.  Pixie dust has a better chance of delivering economic growth.   the green jobs fantasy is worse.   This is Epcot center economics at its worse."
+    }, 
+    {
+        "index": 53, 
+        "note_type": {
+            "name": "Resource", 
+            "slug": "resource"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "[Obama Administration Threatens to Take Back Wis. Rail Money](http://www.nytimes.com/gwire/2010/11/09/09greenwire-obama-admin-threatens-to-take-back-wis-rail-mo-87303.html) (New York Times)"
+    }, 
+    {
+        "index": 54, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "This type of technology is working in the combat zone on a daily basis. And has and will save many lives."
+    }, 
+    {
+        "index": 56, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "White House officials say lowering the tax rate on corporations, which the president said tonight is one of the highest in the world, can be done without adding to the deficit. That is, if loopholes are closed and so-called \"tax expenditures\" that give breaks to certain sectors of the economy, are done away with.  They acknowledge this will stir up fierce opposition from lobbyists representing every interest that now receives a tax break."
+    }, 
+    {
+        "index": 57, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Gwen Ifill is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Gwen", 
+            "last_name": "Ifill", 
+            "title": "", 
+            "id": 22, 
+            "full_name": "Gwen Ifill", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg"
+        }, 
+        "text": "Leveling the playing field on the corporate tax code garners a standing O. Who knew?"
+    }, 
+    {
+        "index": 57, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "This is a great idea. It will help our competitiveness.  However, it would be far better to reform the corporate tax code as a part of a comprehensive reform of the full income tax. "
+    }, 
+    {
+        "index": 60, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Thoma is a macroeconomist and time-series econometrician at the University of Oregon. Follow Thoma on Twitter [@MarkThoma](http://twitter.com/#!/markthoma)\r\n\r\n", 
+            "first_name": "Mark ", 
+            "last_name": "Thoma ", 
+            "title": "", 
+            "id": 47, 
+            "full_name": "Mark  Thoma", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FThoma_Mark_06_013_5x_thumbnail.jpg"
+        }, 
+        "text": "The idea is that removing unnecessary regulation will improve our ability to innovate, and this will help the economy create new, good jobs. However, it wasn't lack of innovation or lack of competitiveness that got us into this mess; it was an out of control financial sector. \r\n\r\nThe President talked about eliminating unnecessary regulation, but far too little was said about the need to implement new regulations where they are needed. In addition, by focusing so much on helping business, the president risks sending the message that what is good for business is necessarily good for the nation. \r\n\r\nBusinesses need the right environment to thrive, but we must not lose sight of the fact that it's the skills of the people that work at businesses that matters most. Our ultimate goal is the best possible life for as many people as possible, and that requires a broader focus than businesses alone."
+    }, 
+    {
+        "index": 61, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mary Agnes Carey is a senior correspondent at [Kaiser Health News](http://www.kaiserhealthnews.org/), a nonprofit news organization committed to in-depth coverage of health care policy and politics. Follow Carey on Twitter [@maryagnescarey](http://twitter.com/#!/maryagnescarey)", 
+            "first_name": "Mary Agnes ", 
+            "last_name": "Carey", 
+            "title": "Senior Correspondent, Kaiser Health News", 
+            "id": 51, 
+            "full_name": "Mary Agnes  Carey", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FMAC100_thumbnail.jpg"
+        }, 
+        "text": "President Obama pledged to work with Republicans on making some changes to the health law, such as repealing a provision the president said placed \"an unnecessary book keeping burden\" on small businesses.  But Obama made it clear that efforts to repeal the law or make significant changes to it  would be a non-starter. He praised the law's provisions that have reduced prescription drug costs for some seniors and allow adult children up to age 26 to remain on a parent's health insurance plan. Obama urged the GOP to \"fix what needs fixing\" in the health law \"and move forward.\"\r\n\r\nBut that's unlikely to happen.  Republicans want to repeal the law or dismantle it [piece by piece](http://www.kaiserhealthnews.org/Stories/2011/January/24/health-law-tree-provisions-house-committee.aspx). House Budget Committee Chairman Paul Ryan, R-Wis., called the law [\"an open-ended health care entitlement\"](http://www.pbs.org/newshour/interactive/speeches/5/republican-response-2011-state-union/) that he said would increase health care costs and hurt job creation. "
+    }, 
+    {
+        "index": 61, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Neera Tanden is the chief operating officer of the [Center for American Progress](http://www.americanprogress.org/) and oversees the health care program. Before that, she was the Director of Domestic Policy for the Obama Biden campaign, and also served on the Domestic Policy Council in the Clinton White House.\r\n\r\n\r\n", 
+            "first_name": "Neera", 
+            "last_name": "Tanden", 
+            "title": "Chief Operating Officer, Center for American Progress", 
+            "id": 50, 
+            "full_name": "Neera Tanden", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FTandenNeera_thumbnail.jpg"
+        }, 
+        "text": "The president here is setting the bar on any changes to the law he'll consider:  they have to make the care \"better or more affordable.\"  Neither full repeal nor other particular initiatives, like eliminating the individual responsibility requirement that ensures individuals have coverage nor gutting spending on reform would meet that test.\r\n\r\nWhen the president spoke about \"correcting a flaw in the legislation that has placed an unnecessary bookkeeping burden on small businesses,\" it is the Republicans who've held up the 1099 issue. They've done that in order to keep it alive with the base, and the president is trying to call them on it."
+    }, 
+    {
+        "index": 61, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/JVKLCtMwsQ8\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 61, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Robert Laszewski is president of [Health Policy and Strategy Associates Inc.](http://www.healthpol.com/) and is a former COO of a health and group benefits insurer.", 
+            "first_name": "Robert", 
+            "last_name": "Laszewski", 
+            "title": "President, Health Policy and Strategy Associates, Inc.", 
+            "id": 13, 
+            "full_name": "Robert Laszewski", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fbob-laszewski_thumbnail.jpg"
+        }, 
+        "text": "The president mentioned the words \"health care\" only four times in his speech.\r\n\r\nOn the new health care law he said, \"If you have ideas about how to improve this law by making care better or more affordable, I am eager to work with you.\"\r\n\r\nOn the deficit he said, “This means further reducing health care costs, including programs like Medicare and Medicaid, which are the single biggest contributor to our long-term deficit… I’m willing to look at other ideas to bring down costs, including one that Republicans suggested last year: medical malpractice reform to rein in frivolous lawsuits.”\r\n\r\nHe said exactly the right things in these few brief words but the proof for how willing the president is to work with Republicans — or the Republicans are willing to work with the president and Democrats — will be in the deeds.\r\n\r\nThe country is divided over this new health care law. I don’t think it has to be. There is plenty of room for Democrats to embrace some key Republican ideas and still accomplish their objectives.\r\n\r\nDemocrats could embrace the Republican notion of more individual responsibility without giving up on their goal of making affordable health care available to everyone.\r\n\r\nThe most controversial elements of the bill such as the individual mandate and the “Cadillac” tax on expensive benefits could be jettisoned if Democrats would embrace concepts of more individual choice and responsibility such as placing limits on how rich a plan would be eligible for tax preferences and if consumers had more health benefit choices.\r\n\r\nIf Republicans and Democrats really are willing to give and take, they could make most Americans happy with health care reform."
+    }, 
+    {
+        "index": 61, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/o4CFQcyJojM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 62, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "We need to find ways — and a lot of them — to better control health care costs! This is the single most important thing we can do to get ahead of our long-term fiscal problems. "
+    }, 
+    {
+        "index": 62, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Neera Tanden is the chief operating officer of the [Center for American Progress](http://www.americanprogress.org/) and oversees the health care program. Before that, she was the Director of Domestic Policy for the Obama Biden campaign, and also served on the Domestic Policy Council in the Clinton White House.\r\n\r\n\r\n", 
+            "first_name": "Neera", 
+            "last_name": "Tanden", 
+            "title": "Chief Operating Officer, Center for American Progress", 
+            "id": 50, 
+            "full_name": "Neera Tanden", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FTandenNeera_thumbnail.jpg"
+        }, 
+        "text": "Discussions of repeal have now focused more attention on what is in the law and allows the president to put a fresh spotlight on what the law does for people and it's actual benefits, which are individually popular.  That is why he's going over each of these elements.\r\n\r\nThe president hopes to set up the general contrast that while he's focused on the economy and jobs, the Republicans are focused on yesterday's debates on health care. And what even Democrats learned is that people would rather focus on the economy than health care.\r\n\r\n\r\n\r\n"
+    }, 
+    {
+        "index": 63, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/WLg7xGiwemk\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 64, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Thoma is a macroeconomist and time-series econometrician at the University of Oregon. Follow Thoma on Twitter [@MarkThoma](http://twitter.com/#!/markthoma)\r\n\r\n", 
+            "first_name": "Mark ", 
+            "last_name": "Thoma ", 
+            "title": "", 
+            "id": 47, 
+            "full_name": "Mark  Thoma", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FThoma_Mark_06_013_5x_thumbnail.jpg"
+        }, 
+        "text": "We need to get our deficit under control, but not before the economy is ready for it. If we move too soon to balance the budget, we could slow the recovery or even cause a return to recessionary conditions. \r\n\r\nWe can learn something about this from the UK. The UK has embraced austerity and taken steps to balance the budget. The idea was that this would create confidence and spur recovery. However, the dismal GDP growth figures released today for the UK tell us we should be very cautious about cutting spending or raising taxes before the economy is on firmer footing that it's on presently. \r\n\r\nFortunately for us, Congress moves slowly. That works in our favor here. But with the president signaling such an openness to work with the GOP on this issue, a more immediate and harmful move toward deficit reduction is not out of the question. I would have liked to have heard the president make clear that while deficit reduction must be addressed, we need to be careful not to hit our still fragile economy with a shock it is not ready to withstand."
+    }, 
+    {
+        "index": 66, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Thoma is a macroeconomist and time-series econometrician at the University of Oregon. Follow Thoma on Twitter [@MarkThoma](http://twitter.com/#!/markthoma)\r\n\r\n", 
+            "first_name": "Mark ", 
+            "last_name": "Thoma ", 
+            "title": "", 
+            "id": 47, 
+            "full_name": "Mark  Thoma", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FThoma_Mark_06_013_5x_thumbnail.jpg"
+        }, 
+        "text": "The details weren't given, but the President likely has an across the board freeze in mind - i.e. the discretionary spending freeze means that no program can grow beyond current levels. \r\n\r\nHowever, a spending freeze while population is growing amounts to a cut in per capita spending. While this sounds courageous, it's actually the easy way out since it avoids tough choices on which programs to cut and which programs to preserve. It is also not optimal for the economy because per capita cuts in some programs will be much more painful than in others. \r\n\r\nA better way to do this, and hopefully what will actually happen, is to cut back (or eliminate) the programs that provide the least value, and maintain or perhaps even expand those that provide critical services to citizens. Thus, if the freeze is across the board, it could be quite disruptive to some programs and to the economy. If it is done wisely, the pain from the cuts could be much less."
+    }, 
+    {
+        "index": 66, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "This makes sense, but as the president says, it is a very small piece of the budget. The emphasis needs to be on all parts of the budget. "
+    }, 
+    {
+        "index": 66, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "Oregon Senator Jeff Merkley, from President Obama’s own party, said just this morning that we have to “look at the war in Afghanistan” when he was asked where he would cut the budget.  He’s right.\r\n\r\nRep. Barney Frank from Massachusetts has called for a very moderate 25% cut in the defense budget. If we’re serious about jobs for – is it 15 million unemployed? – and health care for – still tens of millions without insurance – that 25% cut is going to have to be just the first step. \r\n"
+    }, 
+    {
+        "index": 66, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "[Kevin A. Hassett](http://www.aei.org/scholar/26) is the director of economic policy studies and a senior fellow at American Enterprise Institute.", 
+            "first_name": "Kevin ", 
+            "last_name": "Hassett ", 
+            "title": "Director of Economic Policy Studies, AEI", 
+            "id": 45, 
+            "full_name": "Kevin  Hassett", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FHassett_pic_-_high_res_thumbnail.jpg"
+        }, 
+        "text": "President Obama ran in 2008 as a moderate sensible man with many moderate and sensible proposals.  For example, he has been calling for a corporate tax reform that broadens the base and lowers the rates for as long as I can remember.  As President, he lurched sharply to the left, perhaps because he was driven there by his own party, but perhaps because the temptations of power induced him to reveal his true preferences.  \r\n\r\nThe interesting thing is that President Obama could appear to veer to the right in response to the collapse of the Democratic power structure simply by rehashing his old campaign speeches.   His willingness to put forward genuine proposals is the true acid test of whether he intends to govern as the moderate he portrayed on the campaign trail, or whether he simply will maintain an impotent pretense of  moderation.  \r\n\r\nThis speech was remarkable free of hard substance, suggesting that Obama is a reluctant centrist who only talks a good game.  The five year spending freeze, the only significant precise substance, is painfully inadequate given that spending is currently about $800 billion higher than it was in 2008.  If he succeeds, he will have locked in the biggest short term expansion of government in modern times.  "
+    }, 
+    {
+        "index": 67, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "It will be very interesting to see if POTUS proposes specific spending cuts at Veterans Affairs. If he does, there will surely be a fight."
+    }, 
+    {
+        "index": 67, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/nLOV3w7nelI\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 67, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"425\" height=\"349\" src=\"http://www.youtube.com/embed/5ZzxXSlP-Ms\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 67, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "President Obama is talking about a five-year freeze in domestic spending – but only a few tens of billions in defense spending??  If we’re spending almost a TRILLION dollars just this year, between the Pentagon budget and the cost of the wars in Iraq and Afghanistan, how do we think we’ll ever be able to afford jobs and health care and education?  We need massive cuts in the military budget and ending the wars will be a crucial first step."
+    }, 
+    {
+        "index": 68, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Neera Tanden is the chief operating officer of the [Center for American Progress](http://www.americanprogress.org/) and oversees the health care program. Before that, she was the Director of Domestic Policy for the Obama Biden campaign, and also served on the Domestic Policy Council in the Clinton White House.\r\n\r\n\r\n", 
+            "first_name": "Neera", 
+            "last_name": "Tanden", 
+            "title": "Chief Operating Officer, Center for American Progress", 
+            "id": 50, 
+            "full_name": "Neera Tanden", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FTandenNeera_thumbnail.jpg"
+        }, 
+        "text": "This contrast sets up the key debate in Congress for the year: the president has one vision of fostering economic growth through investments in innovation, education, alternative energy, and the Republicans have a different and opposing vision of slashing spending, even where, he would argue, it hurts economic growth. He's making the case their cuts hurt growth, where they are trying to make the case they will help.  It's the key contrast we will see over the next several months."
+    }, 
+    {
+        "index": 68, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "This is true. It is important to cut spending—and reform taxes—with an eye on economic growth. "
+    }, 
+    {
+        "index": 68, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/Nc-S0K7uZtw\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 70, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "What a shame he didn’t use this opportunity to say, let’s use the Fiscal Commission’s plan as a starting point for a national discussion on how to fix the budget. "
+    }, 
+    {
+        "index": 70, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/LfZat3tJTtw\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 70, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/2Guw1MvcB4Y\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 72, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "The punt on Social Security has been going on for too long. We have known it needs changes, and we have known the options for decades now.  There is really no excuse not to get specific on this point about what to do to fix the problem. More focus on what not to do than what to do is not the right approach. "
+    }, 
+    {
+        "index": 73, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Thoma is a macroeconomist and time-series econometrician at the University of Oregon. Follow Thoma on Twitter [@MarkThoma](http://twitter.com/#!/markthoma)\r\n\r\n", 
+            "first_name": "Mark ", 
+            "last_name": "Thoma ", 
+            "title": "", 
+            "id": 47, 
+            "full_name": "Mark  Thoma", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FThoma_Mark_06_013_5x_thumbnail.jpg"
+        }, 
+        "text": "I was pleased to hear the president say that \"we simply cannot afford a permanent extension of the tax cuts for the wealthiest 2 percent of Americans.\" But there needed to be more emphasis on the fact that eliminating tax cuts for the wealthy and spending cuts will not solve our budget problem by themselves. Taxes are going to go up, and the president could have started paving the way for this to happen."
+    }, 
+    {
+        "index": 73, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "Or a permanent extension of any of the tax cuts prior to putting in place a comprehensive plan to fix the budget! "
+    }, 
+    {
+        "index": 76, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Mark Shields is a syndicated columnist and a regular commentator for the PBS NewsHour.", 
+            "first_name": "Mark", 
+            "last_name": "Shields", 
+            "title": "syndicated columnist", 
+            "id": 34, 
+            "full_name": "Mark Shields", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fshields_homepage_lede__thumbnail.jpg"
+        }, 
+        "text": "I thought it [the tone] was quite serious. But I thought the Chamber was quite serious tonight.\r\n\r\nI mean what was gone was an unwelcome puppetry from the past where our side jumps up and sits on our hands and the other side jumps up. I think that Mark Udall’s bringing people together, it made [lawmakers] a little less willing to be part of the herd, jumping up on my side to cheer each time.  \r\nIf I'm sitting with somebody from the other party. \r\n\r\nI noticed John Kerry sitting with John McCain, and Patty Murray, the chairman of the Democratic Senate Campaign Committee in Washington sitting with John Cornyn, the Republican chairman of the Campaign Committee from Texas, so there is a little less willingness to do it and there is a little bit less of , what we expect as a pep rally aspect of it, of this speech.\r\n"
+    }, 
+    {
+        "index": 78, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Beverly Gage is a professor of American history at Yale University.", 
+            "first_name": "Beverly", 
+            "last_name": "Gage", 
+            "title": "Historian", 
+            "id": 44, 
+            "full_name": "Beverly Gage", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fbeverly-gage_thumbnail.jpg"
+        }, 
+        "text": "Now it seems that Obama is Herbert Hoover, who came to office famous for his ability to reorganize and streamline government agencies. Actually, scratch that: Let’s hope Obama is not Herbert Hoover. "
+    }, 
+    {
+        "index": 79, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "This is true sometimes. Many vets have Tweeted me tonight to tell me that the system does not work very well. And that is only true for the 50 percent or so Iraq and Afghanistan vets enrolled in the VA. Hundreds of thousands have not even signed up yet—and there is no mandatory enrollment in VA."
+    }, 
+    {
+        "index": 79, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Maya MacGuineas is president of the Committee for a Responsible Federal Budget at the New America Foundation.", 
+            "first_name": "Maya", 
+            "last_name": "MacGuineas", 
+            "title": "", 
+            "id": 6, 
+            "full_name": "Maya MacGuineas", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fmaya_macguineasHIRES_thumbnail.JPG"
+        }, 
+        "text": "This is an exciting idea. I hope they take it seriously as part of an overall reform of the budget. "
+    }, 
+    {
+        "index": 80, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "David Chalian is the political editor for the PBS NewsHour.", 
+            "first_name": "David", 
+            "last_name": "Chalian", 
+            "title": "PBS NewsHour", 
+            "id": 41, 
+            "full_name": "David Chalian", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fchalian_thumbnail.jpg"
+        }, 
+        "text": "Not everyone in his own party is signing on board with his earmark ban mission. Earlier today, Senate Majority Leader Harry Reid said this: “I think this is an issue that any president would like to have, that takes power away from the legislative branch of government and I don’t think that’s helpful. I think it’s a lot of pretty talk and it’s only giving the president more power. He’s got enough power already.”\r\n"
+    }, 
+    {
+        "index": 82, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "This is pretty standard stuff:  interdependence, globalization, no more superpower confrontation."
+    }, 
+    {
+        "index": 83, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "Here we are on page 9, 75 percent of the way through this speech, and we reach foreign policy."
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "We must remember we still have troops in Iraq. The war is not over. Thankfully, the president has stopped saying “combat operations” have ended. They have not.\r\n\r\nUnfortunately, the president did not mention what we hoped to hear: vet unemployment and suicides: http://tinyurl.com/4j326fv. Both are huge problems facing vets. Unemployment over 11 percent, suicide rates at an all-time high and climbing rapidly.\r\n"
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "Amazing how Iraq has passed from our radar screen, and merits only a paragraph that stresses the end of the war. We are leaving a grim country still bitterly divided by sect in which many who supported the U.S. invasion now wish Saddam had never been overthrown, so desperate are they for assurances of security.\r\n\r\nBut the responsibility for this tragedy does not lie with this president, and Americans are understandably reluctant to revisit the tragic Iraq errors of the Bush decade. "
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "He's right:  Things have gone relatively well in Iraq, and there are prospects for a decent outcome."
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "But there are fifty thousand U.S. troops still occupying Iraq.  The \"new government\" has been formed, but it is widely discredited, riddled with corruption, and incompetent and unable to provide even the basics of electricity, security, jobs.\r\n\r\nThe war will not be over until all the U.S. troops come home, all the U.S.-paid contractors (those paid by the State Department as well as the Pentagon) are no longer on our payroll, and Iraq's people have a government they choose..."
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "Our job in Iraq was not to bring the troops home; it was to secure victory and security for ourselves, and for the Iraqi people so that their nation could never again pose a threat to us and to our allies. This is a terrible mistake that the president keeps repeating.  Americans are proud of victory, not escape.  We are leaving because we have won.  Glossing over that accomplishment serves no one and underscores one of the president’s ideological failings: he cannot credit our troops or the previous administration with winning strategies or appear to understand the cause for which they fought. "
+    }, 
+    {
+        "index": 84, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/8_2NXVH0JoM\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 86, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "Are we really hearing that the war in Afghanistan – where our own officials admit our top ally is corrupt;  where more Afghan civilians and more U.S. troops died last year than ever before;  where our other friendly neighbor, Pakistan, continues to shelter guerrilla forces attacking the U.S. across the border – is somehow going well?  All our political and military leaders admit this war cannot be won militarily; why do we continue to fight a war as if it could be?  We have more than 100,000 US troops occupying Afghanistan, plus another 100,000 or so US-paid mercenaries.  They’re not winning.  This is a war we cannot win and we cannot afford."
+    }, 
+    {
+        "index": 86, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/GKT5H35Dt-g\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 87, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "Not surprising, but no mention here of the potential increase of 70,000 troops in Afghanistan mentioned in The Hill today by Senator Levin. http://tinyurl.com/6ykqjua"
+    }, 
+    {
+        "index": 87, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "The time will come soon enough when the president has to confront whether it is realistic or possible to transfer security to Afghan forces that will not be capable of handling it for years to come, if ever. No one yet wants to raise this unpalatable reality. So it is easier to talk of \"beginning to bring troops home\" in July, and leave the painful truths for later."
+    }, 
+    {
+        "index": 87, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Tammy Schultz is the director of National Security & Joint Warfare at the Marine Corps War College.", 
+            "first_name": "Tammy", 
+            "last_name": "Schultz", 
+            "title": "Director, National Security & Joint Warfare at the Marine Corps War College", 
+            "id": 48, 
+            "full_name": "Tammy Schultz", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FDr_Tammy_Schultz_-_no_border_thumbnail.jpg"
+        }, 
+        "text": "The problem for President Obama on Afghanistan is that he has several audiences to whom he is speaking.  To simplify, domestically, he has the American people writ large who are mixed about the war, and his political base on the left who largely want out.  Internationally, he has a fraying coalition of countries in Afghanistan who are looking to the United States for leadership, the Afghanistan people writ large who don’t want the country handed over to the Taliban, and those the United States and its partners are trying to defeat (the Taliban and al-Qaida forces) who obviously want us gone.  Unfortunately, his message to his domestic base (that we’ll start pulling out by July 2011) is undercutting the message of staying until the mission is done that our international/Afghan partners and enemies need to hear. \r\n\r\nI would have preferred, as would many counterinsurgency practitioners and experts, that the president dropped July from his Afghanistan vernacular altogether and focused on 2014 – a more realistic time frame to truly measure success given that this war was not properly resourced until 2010, and the year when Afghanistan President Hamid Karzai said he would like his government to have full security control of the country.\r\n"
+    }, 
+    {
+        "index": 87, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "This is more optimistic about what is happening in Afghanistan than many analysts would be, even if it implicitly acknowledges the shortcomings in the Afghan government.  Lots of doubts out there whether he will be able to bring any significant number of troops home, and note he doesn't promise a specific number."
+    }, 
+    {
+        "index": 87, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "We are fighting the war that grew out of 9/11, and it deserves more from the President of the United States than a cursory paragraph that leads into the announcement that soon we will be able to escape.  In fact, we are doing more that “strengthening capacity”.  We are prevailing against the enemy, and the president deserves to take credit for pursuing a winning strategy.  The American people deserve to hear more about this war."
+    }, 
+    {
+        "index": 88, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "One graf for Pakistan, the most dangerous country in the world where liberals, including government ministers, fear for their lives, while the Islamist assassin of a liberal governor - the governor's former guard -  receives Hazzahs from lawyers. Everyone worries whether the assassin's success in penetrating an elite guard unit means that Islamists could penetrate the protectors of Pakistani nukes. But not the time to talk of all this here."
+    }, 
+    {
+        "index": 88, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "This isn't new either, but on the right there are a lot of people who have been asking him to be clearer about our commitment.  Here it is, but will they hear it?"
+    }, 
+    {
+        "index": 88, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/IvY8cRxyAow\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 89, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "Still amazing that the START got through Congress in the December flurry of legislative activity—along with new GI bill upgrades, defense bill, DADT, and the 9/11 first responders bill."
+    }, 
+    {
+        "index": 89, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Tammy Schultz is the director of National Security & Joint Warfare at the Marine Corps War College.", 
+            "first_name": "Tammy", 
+            "last_name": "Schultz", 
+            "title": "Director, National Security & Joint Warfare at the Marine Corps War College", 
+            "id": 48, 
+            "full_name": "Tammy Schultz", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FDr_Tammy_Schultz_-_no_border_thumbnail.jpg"
+        }, 
+        "text": "The fact that the Senate almost did not ratify START exemplifies just how toxic the partisanship in Washington has been (hopefully, the SOTU “date night” with members of the two parties, gasp, sitting together will actually spill into their regular business this year). Ratifying this treaty, which commits the United States and Russia to reduce their nuclear arsenals by one third, should have been a no brainer for the Senate.  \r\n\r\nInstead, the Republicans, who did not want to give the Obama administration any checks in the “win” column, put ratification in jeopardy.  Thankfully, calmer heads prevailed.  The Senate listened to the advice of elder statesmen and the military’s top leadership and ratified the treaty in the lame duck session at the end of last year.\r\n\r\nThe country can be thankful this was the outcome. Had it not been, Russian President Dmitri Medvedev and Prime Minister Vladimir Putin promised a renewed arms race – the last thing that the United States, or the world, needs.\r\n"
+    }, 
+    {
+        "index": 89, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "This is a real achievement, and he is smart to give bipartisan credit."
+    }, 
+    {
+        "index": 89, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "A breathtaking statement.  One might suggest that because we signed the Nuclear Non-Proliferation Treaty, and Iran and North Korea signed too, nuclear weapons will never again be in the hands of irresponsible powers.  And as the [resident goes on to tell us, they, er, do.  Treaties do not make the world safe; enforcement of treaties does.   Our track record on nuclear proliferation is not good, and worsening.  Similarly, our aim with North Korea and Iran is not to achieve tight sanctions.  It is to coerce or cajole them to abandon their illegal programs.  Mission not accomplished.  "
+    }, 
+    {
+        "index": 90, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/TTTnN7cbwqs\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 91, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "More about what the public will regard as obscure topics like foreign assistance, Latin America and NATO than most presidents would care to say.  But it is said well and will sound good to some relatively small constituencies."
+    }, 
+    {
+        "index": 91, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "This paragraph makes no sense.  We have rarely been held in lower regard in the Americas.  The Russian reset has ushered in a period of authoritarian retrenchment disastrous to us and our allies.  NATO is revitalized?  Where to begin.  And where is the kitchen sink? It too belongs in this paragraph."
+    }, 
+    {
+        "index": 91, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "Is President Obama going to say anything about the latest failure in U.S.-brokered peace talks in the Middle East?  Or is he just hoping we’re  not paying attention, and that we’re fine with paying $30 billion over these ten years directly to the Israeli military, money that could be used for 600,000 new green jobs here at home?"
+    }, 
+    {
+        "index": 93, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "Belated support for Tunisian rebels. Unsaid: No one knows where this uprising will lead, but everyone fears the whole region is on the brink of upheaval, with no competent, centrist leaders available to take the helm (because autocrats have destroyed them) and the Islamists waiting in the wings."
+    }, 
+    {
+        "index": 93, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "What's missing here is mention of today's big demonstrations in Egypt.  How will he react if Mubarak starts looking shaky tomorrow?  Will he stick with standing by the people and supporting democratic aspirations?  Or will we prefer to shore up our friend, the bulwark against the Muslim brotherhood?"
+    }, 
+    {
+        "index": 93, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "These are nice sentiments, but it takes more to stand with people who yearn to be free than a paragraph.  What about Egypt?  Where were we on Tunisia before the people spoke out?  What about Lebanon?  Saudi Arabia?  China?  We owe more to the world than lip service to freedom."
+    }, 
+    {
+        "index": 93, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "It’s about time. The long-time dictator in Tunisia, just ousted by a popular revolt, was backed politically and militarily by the U.S. for more than two decades.  "
+    }, 
+    {
+        "index": 95, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "This is a very general point. No specifics whatsoever. Equipment issues were largely fixed years ago. Care and benefits is a nice gesture, but we need hard metrics for accountability and success. They have already enlisted in “building our own nation”. What we need now is jobs."
+    }, 
+    {
+        "index": 95, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Tammy Schultz is the director of National Security & Joint Warfare at the Marine Corps War College.", 
+            "first_name": "Tammy", 
+            "last_name": "Schultz", 
+            "title": "Director, National Security & Joint Warfare at the Marine Corps War College", 
+            "id": 48, 
+            "full_name": "Tammy Schultz", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FDr_Tammy_Schultz_-_no_border_thumbnail.jpg"
+        }, 
+        "text": "Although our Armed Forces have shown remarkable resiliency, with many deploying multiple times since 2011, there are signs of stress on our force.  Recent statistics show increases in suicides (for a second year in a row, more troops were lost to suicide than combat in Afghanistan or Iraq), post traumatic stress cases (the National Center for PTSD says that 10-18 percent of troops who return from Afghanistan or Iraq are likely to have PTSD), and alcoholism (according to an Army study, twice as many U.S. Army Soldiers in 2009 as compared to six years ago were either alcoholics or engage in damaging behavior such as binge drinking). "
+    }, 
+    {
+        "index": 95, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "Someday I'd like to hear a president give credit to our civilians, including diplomats and aid workers.  But I know it is asking too much."
+    }, 
+    {
+        "index": 95, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Danielle Pletka is vice president for foreign and defense policy studies at the American Enterprise Institute for Public Policy Research.", 
+            "first_name": "Danielle", 
+            "last_name": "Pletka", 
+            "title": "Vice President, American Enterprise Institute for Public Policy Research", 
+            "id": 55, 
+            "full_name": "Danielle Pletka", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fplet_thumbnail.jpg"
+        }, 
+        "text": "How exactly does the president suggest we serve our troops well by slashing the national defense budget and disinvesting in the very equipment our troops need to remain alive, defending the nation?  Policy requires more than sentiment.  It requires allocation of the budget so that the fighters and tankers and combat vehicles our troops need and that the president has chosen to defund matter as much as the bridges the President so dearly wishes to repair.  "
+    }, 
+    {
+        "index": 95, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Phyllis Bennis is the director of the New Internationalism Project at the Institute for Policy Studies.\r\n", 
+            "first_name": "Phyllis ", 
+            "last_name": "Bennis", 
+            "title": "Director, New Internationalism Project at the Institute for Policy Studies", 
+            "id": 46, 
+            "full_name": "Phyllis  Bennis", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fphyllis_thumbnail.jpg"
+        }, 
+        "text": "Let’s really support the troops – let’s end the terrible failing wars in which they are forced to serve, and bring them home. Let’s provide real health care when they return, and rebuild an economy that provides jobs for young people rather than have them drafted by poverty, lack of money for school, lack of jobs, lack of options."
+    }, 
+    {
+        "index": 96, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Paul Rieckhoff is the executive director and founder of Iraq and Afghanistan Veterans of America.", 
+            "first_name": "Paul", 
+            "last_name": "Rieckhoff", 
+            "title": "Executive director,  Iraq and Afghanistan Veterans of America", 
+            "id": 49, 
+            "full_name": "Paul Rieckhoff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpaul1_thumbnail.jpg"
+        }, 
+        "text": "Four are sitting with the First Lady. SSG Giunta, Medal of Honor recipient; Army SSG Brian Mast, who lost most of both legs in Afghanistan; Marine Gunny Nicole Mohabir, deployed three times to Iraq and Afghanistan; and Dr. Peter Rhee, Navy trauma surgeon who helped save Rep. Gabrielle Giffords. Interesting: Guinta is featured in the groundbreaking documentary film, Restrepo, which was nominated for the Academy Award just this morning. \r\n\r\nThis is good to see [the remarks on ROTC]. Closest thing we’ve seen to a call to service in the military. It is long overdue, and will help break down the counter-productive divide that exists between our military and the elite colleges. I was proud that my school, Amherst College, recently changed its stance and allowed ROTC on campus."
+    }, 
+    {
+        "index": 96, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Tammy Schultz is the director of National Security & Joint Warfare at the Marine Corps War College.", 
+            "first_name": "Tammy", 
+            "last_name": "Schultz", 
+            "title": "Director, National Security & Joint Warfare at the Marine Corps War College", 
+            "id": 48, 
+            "full_name": "Tammy Schultz", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2FDr_Tammy_Schultz_-_no_border_thumbnail.jpg"
+        }, 
+        "text": "President Obama is referring to the policy of many college campuses banning military recruiters and Reserve Officers’ Training Corps (ROTC) from their campuses due to “Don’t Ask, Don’t Tell,” the ban on allowing gays and lesbians to serve openly.\r\n\r\nAmerica’s Armed Forces and universities will both be stronger if ROTC returns to campus, and President Obama is right to push for this change.\r\n"
+    }, 
+    {
+        "index": 96, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "Nicely done:  he's turned the necessary praise for our troops and commitment to supporting them into praise for their diversity, including gays.  Then he pivots to give the right wing something it says it wants--return of ROTC to campuses.  The guy plays basketball and knows how to pivot."
+    }, 
+    {
+        "index": 96, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/JvWdfg9FsoA\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 100, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Trudy Rubin writes a foreign affairs column for The Philadelphia Inquirer and is a member of The Inquirer’s editorial board.\r\n", 
+            "first_name": "Trudy", 
+            "last_name": "Rubin", 
+            "title": "The Philadelphia Inquirer ", 
+            "id": 40, 
+            "full_name": "Trudy Rubin", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Ftrudy_thumbnail.jpg"
+        }, 
+        "text": "In reality, it may be that the above graf is the most important message for a president who wants to be a global leader. Only if Americans can pull together, a prerequisite for rebuilding the U.S. economy, can a U.S. president appear, once again, to be leading a powerful country.  If America is riven with bitter political divisions, it adds to the image of a weakened nation.  So it is the moment for a domestic speech that convincingly rallies the country,  rather than a speech that focuses on problems abroad."
+    }, 
+    {
+        "index": 102, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/VY35prv1sm8\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 103, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"425\" height=\"349\" src=\"http://www.youtube.com/embed/9hydAOLFWO0\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 104, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/1KAK3v31Shk\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 108, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "\"That's how we will win the future.\" That is the thought that the White House -- the people around the President -- want Americans to take away more than any other from tonight's State of the Union."
+    }, 
+    {
+        "index": 109, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Daniel Serwer is a professorial lecturer, visiting scholar and senior fellow in the School of Advanced International Studies at Johns Hopkins University.\r\n\r\n", 
+            "first_name": "Daniel", 
+            "last_name": "Serwer", 
+            "title": "Professorial lecturer, School of Advanced International Studies at Johns Hopkins University ", 
+            "id": 39, 
+            "full_name": "Daniel Serwer", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fdaniel_thumbnail.jpg"
+        }, 
+        "text": "This is pretty standard stuff about the American Dream, and I know a lot of people who would put footnotes all over it.  But he's headed for the required optimistic finish, and this is a pretty good crescendo."
+    }, 
+    {
+        "index": 111, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "James W. Pennebaker is the Regents Centennial Professor and Chair of Psychology at the University of Texas at Austin.", 
+            "first_name": "James W.", 
+            "last_name": "Pennebaker", 
+            "title": "", 
+            "id": 52, 
+            "full_name": "James W. Pennebaker", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fpennebaker_thumbnail.jpg"
+        }, 
+        "text": "The words people use provide a window into the ways they are thinking and feeling.  Obama’s 2011 State of the Union Address is no different.  By analyzing the ways he used almost-invisible pronouns, articles, and emotion words, we can see how he and his administration are starting to shift in their thinking from their last SOTUs. \r\n\r\nMost striking was Obama’s emotional distance.  Compared to all other modern presidents, tonight’s speech had virtually no positive or negative emotion words.  Even the word “I” was rarely heard.  As always, his language betrayed complex and nuanced thinking but, compared to previous years, he was far more concrete and specific in his arguments than in the past.\r\n\r\nThis was a fascinating presidential speech from someone whose language was distant, impartial, and cool.  Even more than his previous SOTUs, Obama has created a style that no Americans have seen in a U.S. president."
+    }, 
+    {
+        "index": 112, 
+        "note_type": {
+            "name": "Video", 
+            "slug": "video"
+        }, 
+        "author_info": {
+            "first_name": "PBS", 
+            "last_name": "NewsHour", 
+            "full_name": "PBS NewsHour"
+        }, 
+        "text": "<iframe title=\"YouTube video player\" class=\"youtube-player\" type=\"text/html\" width=\"560\" height=\"345\" src=\"http://www.youtube.com/embed/8pErlunvylE\" frameborder=\"0\" allowFullScreen></iframe>"
+    }, 
+    {
+        "index": 112, 
+        "note_type": {
+            "name": "Comment", 
+            "slug": "comment"
+        }, 
+        "author_info": {
+            "bio": "Judy Woodruff is a senior correspondent for the PBS NewsHour.", 
+            "first_name": "Judy", 
+            "last_name": "Woodruff", 
+            "title": "", 
+            "id": 23, 
+            "full_name": "Judy Woodruff", 
+            "thumbnail": "http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fwoodruff_thumbnail.jpg"
+        }, 
+        "text": "It is interesting that there is much more applause at the end of the speech than when the President explored in detail budget, energy, high speed rail and other infrastructure ideas to \"win the future.\"  There was occasional polite applause for most of the speech.  His line praising teachers was an exception: when he called on American young people to go into teaching, he got a sustained standing ovation.\r\n\r\nBut the most enthusiastic interruptions for applause came near the end: everyone stood and cheered at the line no one could disagree with: \"And yet, as contentious and frustrating and messy as our democracy can sometimes be, I know there isn’t a person here who would trade places with any other nation on Earth.\"\r\n\r\nIt was a speech that sought to inspire, to lift visions.  With several references to  Americans' \"can do\" spirit and ability, the President presented an optimistic face to the daunting challenges that lie ahead, the sort of message his re-election campaign will want to adopt.  Is it a coincidence that time and again, American voters have chosen the more optimistic candidate to be president?\r\n"
+    }
+]

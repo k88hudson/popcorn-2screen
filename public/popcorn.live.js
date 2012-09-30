@@ -2,7 +2,7 @@
 
 (function ( Popcorn ) {
 
-  var socket = io.connect('http://localhost:7777');
+  var socket = io.connect('http://192.168.1.110:7777');
 
   /**
    * livecredits Popcorn plug-in
@@ -42,7 +42,7 @@
     },
 
     _setup: function( options ) {
-      options.key = Popcorn.guid();
+      options.key = options.key === undefined ? Popcorn.guid() : options.key;
       console.log( options.key );
       socket.emit( "popcornEvent", {
         e: "setup",
@@ -60,7 +60,8 @@
     start: function( event, options ) {
       socket.emit( "popcornEvent", {
         e: "start",
-        key: options.key
+        key: options.key,
+        data: options
       });
     },
     /**
@@ -72,7 +73,8 @@
     end: function( event, options ) {
       socket.emit( "popcornEvent", {
         e: "end",
-        key: options.key
+        key: options.key,
+        data: options
       });
     },
     _teardown: function( options ) {

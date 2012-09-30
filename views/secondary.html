@@ -10,13 +10,15 @@
 <body>
   <div class="wrapper">
     <h1>Commentary</h1>
-    <ul class="feed"></ul>
+    <ul class="feed">
+    </ul>
   </div>
 
 <div id="TEMPLATE">
   <!-- Commentary -->
   <li class="commentary-block hidden">
-    <h3>Example commentary</h3>
+    <img class="photo" src="http://newshour.s3.amazonaws.com:80/photos%2Fspeeches%2Fguests%2Fifill_thumbnail.jpg">
+    <h3 class="full-name">John Smith</h3>
     <h4 class="timestamp">3:20</h4>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -27,39 +29,8 @@
   </li>
 </div>
 
+<script src="popcorn.js"></script>
 <script src="/socket.io/socket.io.js"></script>
-<script>
-  var socket = io.connect('http://localhost:7777'),
-      TEMPLATE_FRAG = document.getElementById( "TEMPLATE" );
-  function onStart( data ) {
-    var container = document.getElementById( "popcorn-" + data.key );
-    container.classList.remove( "hidden" );
-  }
-  function onEnd( data ) {
-    var container = document.getElementById( "popcorn-" + data.key );
-    container.classList.add( "hidden" );
-  }
-  function onSetup( data ) {
-    var newEl = TEMPLATE_FRAG.querySelector( ".commentary-block").cloneNode( true ),
-        titleContainer = newEl.querySelector( "h4" ),
-        textContainer = newEl.querySelector( "p" ),
-        key = data.key,
-        title = data.title || "Untitled",
-        text = data.data.text,
-        list = document.querySelector( ".feed" );
-
-    console.log( data );
-    newEl.id = "popcorn-" + key;
-    titleContainer.innerHTML = title;
-    textContainer.innerHTML = text;
-    list.appendChild( newEl );
-  }
-
-  //Setup!
-  socket.on( "setup", onSetup );
-  socket.on( "start", onStart );
-  socket.on( "end", onEnd );
-
-</script>
+<script src="secondary.js"></script>
 </body>
 </html>

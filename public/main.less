@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
+#video {
+  width: 100%;
+}
+
 #TEMPLATE {
   display: none;
 }
@@ -19,13 +23,24 @@ body {
   border-left: 1px dashed #AAA;
   li {
     &.hidden {
-      opacity: 0.5;
+      //opacity: 0.1;
+      border: 1px solid #CCC;
     }
     background: #FFF;
     padding: 30px;
     margin-bottom: 10px;
     margin-left: 10px;
-    border: 1px solid #CCC;
+    border: 5px solid #3FB58E;
+    img {
+      height: 50px;
+      width: 50px;
+      margin-right: 10px;
+      float: left;
+    }
+    video,
+    iframe {
+      width: 100%;
+    }
     h3 { // Heading
       margin: 0;
     }
