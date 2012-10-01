@@ -21,18 +21,14 @@ io.sockets.on( "connection", function( socket ) {
   });
 });
 
-app.get( "/1", function( req, res ) {
+app.get( "/2screen/1", function( req, res ) {
   res.sendfile( __dirname + "/views/primary.html" );
 });
 
-app.get( "/2", function( req, res ) {
+app.get( "/2screen/2", function( req, res ) {
   res.sendfile( __dirname + "/views/secondary.html" );
 });
 
-app.get( "/test", function( req, res ) {
-  res.sendfile( __dirname + "/views/test.html" );
-});
-
-app.get( "/*", function( req, res ) {
+app.get( "/2screen/*", function( req, res ) {
   res.sendfile( __dirname + "/public/" + req.params[ 0 ] );
 });

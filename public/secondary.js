@@ -1,5 +1,5 @@
 document.addEventListener( "DOMContentLoaded", function() {
-  var socket = io.connect('http://192.168.1.110:7777'),
+  var socket = io.connect( "http://" + window.location.host ),
       TEMPLATE_FRAG = document.getElementById( "TEMPLATE" ),
       list = document.querySelector( ".feed" ),
       PREFIX = "commentary-",
@@ -70,7 +70,7 @@ document.addEventListener( "DOMContentLoaded", function() {
       room: room
     });
 
-    document.querySelector( ".loc" ).innerHTML = "http://localhost:7777" + "/1" + window.location.hash;
+    document.querySelector( ".loc" ).innerHTML = "http://katehudson.ca/2screen" + "/1" + window.location.hash;
 
     socket.on( "setup", onSetup );
     socket.on( "start", onStart );
