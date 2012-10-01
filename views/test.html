@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Kiso</title>
+  <meta name="viewport" content="width=device-width">
+  <style>
+  input {
+    border: 1px solid #CCC;
+    padding: 10px;
+    width: 300px;
+  }
+  button {
+    display: block;
+    width: 150px;
+    background: #EEE;
+    border: 1px solid #CCC;
+    padding: 10px;
+  }
+  </style>
+</head>
+<body>
+  <h1 id="roomname"></h1>
+  <input id="text" type="text">
+  <button id="submit">Submit</button>
+  <div id="messages"></div>
+
+<script src="popcorn.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io.connect( "http://192.168.1.110:7777" ),
+      messages = document.querySelector( "#messages" );
+
+  socket.emit( "setRoom", {
+    room: window.location.hash
+  });
+
+  document.querySelector( "#roomname" ).innerHTML = window.location.hash;
+
+  document.querySelector( "#submit" ).addEventListener( "click", function() {
+    socket.emit( "up", {
+      message: document.querySelector( "#text" ).value
+    });
+  }, false );
+
+  socket.on( "down", function( data ) {
+    var newEl = document.createElement( "p" );
+    newEl.innerHTML = data.message;
+    messages.appendChild( newEl );
+  });
+
+</script>
+</body>
+</html>

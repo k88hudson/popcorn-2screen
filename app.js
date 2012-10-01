@@ -1,30 +1,38 @@
-var app = require('express')()
-  , server = require('http').createServer(app)
-  , io = require('socket.io').listen(server);
+var app = require( "express" )(),
+    server = require( "http" ).createServer( app ),
+    io = require( "socket.io" ).listen( server );
 
-server.listen(7777);
+server.listen( 7777 );
 
-app.get('/*', function (req, res) {
-  var file = req.params[0];
+io.sockets.on( "connection", function( socket ) {
 
-  if ( file === "1" ) {
-    res.sendfile(__dirname + '/views/primary.html');
-  } else if (file === "2" ) {
-    res.sendfile(__dirname + '/views/secondary.html');
-  } else {
-    res.sendfile(__dirname + '/public/' + file );
-  }
+  socket.on( "setRoom", function( data ) {
+    socket.join( data.room );
+  });
+
+  socket.on( "up", function( data ) {
+      socket.broadcast.to( data.room ).emit( data.e, data );
+      //io.sockets.in( data.room ).emit( "down", data );
+  });
+
+  socket.on( "remote", function( data ) {
+      socket.broadcast.to( data.room ).emit( "remote", data );
+      //io.sockets.in( data.room ).emit( "down", data );
+  });
 });
- 
-io.sockets.on('connection', function ( socket ) {
-  socket.on('popcornEvent', function ( data ) {
-    console.log( data );
-    io.sockets.emit( data.e, {
-      key: data ? data.key : false,
-      data: data ? data.data : {}
-    });
-  });
-  socket.on('remote', function ( data ) {
-    io.sockets.emit( 'remote', data );
-  });
+
+app.get( "/1", function( req, res ) {
+  res.sendfile( __dirname + "/views/primary.html" );
+});
+
+app.get( "/2", function( req, res ) {
+  res.sendfile( __dirname + "/views/secondary.html" );
+});
+
+app.get( "/test", function( req, res ) {
+  res.sendfile( __dirname + "/views/test.html" );
+});
+
+app.get( "/*", function( req, res ) {
+  res.sendfile( __dirname + "/public/" + req.params[ 0 ] );
 });

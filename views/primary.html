@@ -17,9 +17,18 @@
   <script src="popcorn.live.js"></script>
   <script>
     document.addEventListener( "DOMContentLoaded", function(){
-      var socket = io.connect('http://192.168.1.110:7777'),
+      var socket = window.socket = io.connect('http://192.168.1.110:7777'),
           p = Popcorn( "#video" ),
           data;
+
+      //Setup!
+      if( !window.location.hash ) {
+        return; 
+      }
+
+      socket.emit( "setRoom", {
+        room: window.location.hash
+      });
 
       data = Popcorn.xhr({
         url: "data/transcript.json",
@@ -36,7 +45,7 @@
         }
       });
 
-      socket.on('remote', function ( data ) {
+      socket.on( "remote", function ( data ) {
         console.log( data );
         if ( data.e === "pause" ) {
           p.pause();

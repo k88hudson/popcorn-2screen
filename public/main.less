@@ -36,6 +36,9 @@ body {
       width: 50px;
       margin-right: 10px;
       float: left;
+      &.hidden {
+        display: none;
+      }
     }
     video,
     iframe {
@@ -50,5 +53,14 @@ body {
       font-weight: normal;
       font-style: italic;
     }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  h2 {
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 360px;
   }
 }
