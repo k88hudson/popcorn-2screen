@@ -46,7 +46,7 @@
         e: "setup",
         key: options.key,
         data: options,
-        room: window.location.hash
+        room: options.room
       });
     },
 
@@ -61,7 +61,7 @@
         e: "start",
         key: options.key,
         data: options,
-        room: window.location.hash
+        room: options.room
       });
     },
     /**
@@ -75,7 +75,7 @@
         e: "end",
         key: options.key,
         data: options,
-        room: window.location.hash
+        room: options.room
       });
     },
     _teardown: function( options ) {

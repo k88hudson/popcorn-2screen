@@ -5,12 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Kiso</title>
   <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="/2screen/main.css">
 </head>
 <body>
+  <header>
+    <input id="connect-input" type="type" placeholder="Key...">
+    <button id="connect" class="btn">Connect</button>
+    <span class="spinny hidden"></span>
+  </header>
   <div class="wrapper">
-    <h1>Commentary</h1>
-    <h2>You should connect to <span class="loc"></span></h2>
     <ul class="feed">
     </ul>
   </div>
@@ -30,8 +33,8 @@
   </li>
 </div>
 
-<script src="popcorn.js"></script>
+<script src="/2screen/popcorn.js"></script>
 <script src="/socket.io/socket.io.js"></script>
-<script src="secondary.js"></script>
+<script src="/2screen/secondary.js"></script>
 </body>
 </html>

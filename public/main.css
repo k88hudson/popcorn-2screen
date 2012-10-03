@@ -3,6 +3,50 @@ body {
   line-height: 1.4;
   font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
 }
+header {
+  text-align: center;
+  font-size: 24px;
+  z-index: 10000000;
+  position: fixed;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-bottom: 1px solid #CCC;
+}
+header input {
+  font-size: 1em;
+  padding: 0.2em;
+  display: inline-block;
+  border: 1px solid #CCC;
+  padding-left: 10px;
+  margin: 10px;
+  margin-right: 0;
+  width: 200px;
+}
+header input:focus {
+  outline: none;
+  border: 1px solid #53b1e7;
+}
+header .btn {
+  font-size: 1em;
+  display: inline-block;
+  background: #53b1e7;
+  padding: 0.2em;
+  border: 1px solid #269de1;
+  color: #FFF;
+  margin: 10px;
+  border-radius: 2px;
+}
+header .spinny {
+  display: inline-block;
+  height: 28px;
+  width: 28px;
+  background: url(wait.gif) no-repeat;
+}
+header .hidden {
+  display: none;
+}
 .wrapper {
   width: 500px;
   margin: 0 auto;
@@ -16,6 +60,7 @@ body {
 .feed {
   padding: 0;
   margin: 0;
+  padding-top: 60px;
   list-style: none;
   border-left: 1px dashed #AAA;
 }

@@ -1,7 +1,52 @@
+@blue: #53B1E7;
 body {
   background: #EEE;
   line-height: 1.4;
   font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+}
+header {
+  text-align: center;
+  font-size: 24px;
+  z-index: 10000000;
+  position: fixed;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-bottom: 1px solid #CCC;
+  input {
+    font-size: 1em;
+    padding: 0.2em;
+    display: inline-block;
+    border: 1px solid #CCC;
+    padding-left: 10px;
+    margin: 10px;
+    margin-right: 0;
+    width: 200px;
+    &:focus {
+      outline: none;
+      border: 1px solid @blue;
+    }
+  }
+  .btn {
+    font-size: 1em;
+    display: inline-block;
+    background: @blue;
+    padding: 0.2em;
+    border: 1px solid darken( @blue, 10% );
+    color: #FFF;
+    margin: 10px;
+    border-radius: 2px;
+  }
+  .spinny {
+    display: inline-block;
+    height: 28px;
+    width: 28px;
+    background: url( wait.gif ) no-repeat;
+  }
+  .hidden {
+    display: none;
+  }
 }
 .wrapper {
   width: 500px;
@@ -19,6 +64,7 @@ body {
 .feed {
   padding: 0;
   margin: 0;
+  padding-top: 60px;
   list-style: none;
   border-left: 1px dashed #AAA;
   li {

@@ -5,33 +5,42 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Kiso</title>
   <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="/2screen/main.css">
 </head>
 <body>
+   <header>
+    <input id="connect-input" type="type" placeholder="Key...">
+    <button id="connect" class="btn">Connect</button>
+  </header>
   <video id="video" preload data-butter="media" controls>
     <source id="mp4" src="http://www.pbs.org/newshour/video/2011/specials/SOTU/20110125_sotu.mp4" type="video/mp4">
     <source id="ogv" src="http://www.pbs.org/newshour/video/2011/specials/SOTU/20110125_sotu.ogv" type="video/ogg">
   </video>
   <script src="/socket.io/socket.io.js"></script>
-  <script src="popcorn.js"></script>
-  <script src="popcorn.live.js"></script>
+  <script src="/2screen/popcorn.js"></script>
+  <script src="/2screen/popcorn.live.js"></script>
   <script>
     document.addEventListener( "DOMContentLoaded", function(){
       var socket = window.socket = io.connect( "http://" + window.location.host ),
           p = Popcorn( "#video" ),
-          data;
+          data,
+          room;
 
-      //Setup!
-      if( !window.location.hash ) {
-        return; 
-      }
+      var connectBtn = document.getElementById( "connect" ),
+        connectInput = document.getElementById( "connect-input" );
 
+    connectBtn.addEventListener( "click", function() {
+      room = connectInput.value;
       socket.emit( "setRoom", {
-        room: window.location.hash
+        room: room,
+        view: true
       });
+    }, false );
 
-      data = Popcorn.xhr({
-        url: "data/transcript.json",
+    function onConnected() {
+      connectBtn.innerHTML = ":) Connected!";
+      Popcorn.xhr({
+        url: "/2screen/data/transcript.json",
         dataType: "json",
         success: function( data ) {
           data = data.data;
@@ -39,24 +48,28 @@
             p.livecredits({
               start: data[ i ].start,
               end: data[ i ].end,
-              key: data[ i ].id
+              key: data[ i ].id,
+              room: room
             });
           }
         }
       });
+    }
 
-      socket.on( "remote", function ( data ) {
-        console.log( data );
-        if ( data.e === "pause" ) {
-          p.pause();
+    socket.on( "connected-view", onConnected );
+
+    socket.on( "remote", function ( data ) {
+      console.log( data );
+      if ( data.e === "pause" ) {
+        p.pause();
+      }
+      if ( data.e === "play" ) {
+        if ( data.time ) {
+          p.currentTime( data.time );
         }
-        if ( data.e === "play" ) {
-          if ( data.time ) {
-            p.currentTime( data.time );
-          }
-          p.play();
-        }
-       });
+        p.play();
+      }
+     });
 
     }, false);
   </script>

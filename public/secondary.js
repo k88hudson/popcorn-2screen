@@ -3,7 +3,7 @@ document.addEventListener( "DOMContentLoaded", function() {
       TEMPLATE_FRAG = document.getElementById( "TEMPLATE" ),
       list = document.querySelector( ".feed" ),
       PREFIX = "commentary-",
-      room = window.location.hash;
+      room;
 
   function pause() {
     socket.emit( "remote", {
@@ -41,6 +41,28 @@ document.addEventListener( "DOMContentLoaded", function() {
   }
 
   function init( annotations ) {
+    var connectBtn = document.getElementById( "connect" ),
+        connectInput = document.getElementById( "connect-input" ),
+        spinny = document.querySelector( ".spinny" ),
+        room;
+
+    connectBtn.addEventListener( "click", function() {
+      room = connectInput.value;
+      socket.emit( "setRoom", {
+        room: room
+      });
+
+      spinny.classList.remove( "hidden" );
+      connectBtn.classList.add( "hidden" );
+    }, false );
+
+    function onConnected( data ) {
+      if ( data.room === room ) {
+        connectBtn.innerHTML = ":) Connected!";
+        connectBtn.classList.remove( "hidden" );
+        spinny.classList.add( "hidden" );
+      }
+    }
   
     function onStart( data ) {
       console.log( data );
@@ -55,31 +77,22 @@ document.addEventListener( "DOMContentLoaded", function() {
 
     function onSetup( data ) {
       var key = data.key;
-      document.querySelector( ".wrapper h2" ).style.display = "none";
       if ( annotations[ key ] && !document.getElementById( PREFIX + key ) ) {
         createLi( data, annotations[ key ][ 0 ] );
       }
     }
 
-    //Setup!
-    if ( !window.location.hash ) {
-      return;
-    }
-
-    socket.emit( "setRoom", {
-      room: room
-    });
-
-    document.querySelector( ".loc" ).innerHTML = "http://katehudson.ca/2screen" + "/1" + window.location.hash;
-
+    socket.on( "connected", onConnected );
     socket.on( "setup", onSetup );
     socket.on( "start", onStart );
     socket.on( "end", onEnd );
-  }
+
+  } //init
+
 
   //Grab the annotation data.
   Popcorn.xhr({
-    url: "data/annotations.json",
+    url: "/2screen/data/annotations.json",
     dataType: "json",
     success: init
   });
